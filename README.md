@@ -10,7 +10,7 @@ My solution for the robot motion planning project, part of my Udacity Machine Le
 
 ## Description
 
-An simulated robot-like agent is placed in the corner of a grid-like maze with the task to **find the shortest path to the maze's center**.
+A simulated robot-like agent is placed in the corner of a grid-like maze with the task to **find the shortest path to the maze's center**.
 The agent is equipped with three range-limited ranging sensors pointing to the front, left and right side of the agent.
 **It has no knowledge of the maze map** and has to construct a representation of the maze in order
 to find the shortest path.
