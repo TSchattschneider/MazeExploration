@@ -1,6 +1,6 @@
 # Explore and Navigate a Virtual Maze
 
-My solution for the robot motion planning project, part of my Udacity Machine Learning Engineer Nanodegree.
+My solution for Udacity's robot motion planning project.
 
 <p align="center">
 <img src="res/maze.gif" title="Animation of maze exploration">
